@@ -1,9 +1,5 @@
 <h2 align="left">Olá 👋! Meu nome é Daniel Fernando.</h2>
 
-###
-
-<br clear="both">
-
 <h3 align="left">Estudo desenvolvimento web a mais de um ano e sou apaixonado pela área, estou sempre procurando evoluir e desejo ser um desenvolvedor de sucesso no futuro.</h3>
 
 ###
